@@ -1,0 +1,22 @@
+{
+  "name": "auth_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.10",
+    "serve-static": "^1.14.1"
+  }
+}
